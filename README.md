@@ -20,8 +20,7 @@ It can only be spent on:
 - **`upstream`** — sponsoring projects Deskflow depends on
 - **`fees`** — payment and transfer charges
 
-Anything else needs a public issue and agreement first. About $75 a year goes on a code
-signing certificate, so that much always stays put.
+Anything else needs a public issue and agreement first.
 
 Sponsor privately and you are recorded as `anonymous`, never by name.
 
@@ -36,6 +35,9 @@ date,direction,amount_usd,party,category,note
 
 It changes only by pull request, so every change is a public commit that can be diffed,
 and someone other than the author has to merge it.
+
+Amounts are US dollars. Anything paid in another currency is converted at the rate on the
+day, with the original amount and the rate in the note.
 
 Money coming in is added monthly from the GitHub Sponsors export, once payments have
 actually arrived.
