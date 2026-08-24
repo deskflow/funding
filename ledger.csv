@@ -1,4 +1,8 @@
 date,direction,amount_usd,party,category,note
+2025-09-11,in,22.00,ADS-Fund,sponsorship,one-time sponsorship
+2025-10-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2025-11-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2025-12-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
 2025-12-31,in,7450.00,Synergy,sponsorship,Paid directly to recipients by Synergy in 2025
 2025-12-31,out,3000.00,mrnicegyu11,payout,Dustin Kaiser. 2025 total
 2025-12-31,out,1300.00,sithlord48,payout,Chris Rizzitello. 2025 total
@@ -8,3 +12,19 @@ date,direction,amount_usd,party,category,note
 2025-12-31,out,200.00,varshith257,payout,Vamshi Maskuri. 2025 total
 2025-12-31,out,1000.00,KDE e.V.,upstream,2025 total
 2025-12-31,out,500.00,GNOME Foundation,upstream,2025 total
+2026-01-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2026-02-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2026-02-18,in,0.50,losuler,sponsorship,monthly sponsorship, first month prorated
+2026-03-03,in,1.00,losuler,sponsorship,monthly sponsorship
+2026-03-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2026-04-03,in,1.00,losuler,sponsorship,monthly sponsorship
+2026-04-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2026-05-08,in,1.00,losuler,sponsorship,monthly sponsorship
+2026-05-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2026-06-03,in,1.00,losuler,sponsorship,monthly sponsorship
+2026-06-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2026-07-03,in,1.00,losuler,sponsorship,monthly sponsorship
+2026-07-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2026-07-20,in,1100.00,anonymous,sponsorship,one-time sponsorship
+2026-08-03,in,1.00,losuler,sponsorship,monthly sponsorship
+2026-08-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
