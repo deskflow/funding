@@ -11,7 +11,7 @@ Every dollar sponsors give Deskflow, and everywhere it goes.
 GitHub needs a company account to pay sponsorship into, and that account belongs to
 Synergy (legally, Synergy App Ltd). It holds the money for Deskflow, not as its own.
 
-Maintainers, and anyone employed by Synergy, are not paid out of it.
+Synergy or anyone employed by Synergy, are not paid out of it.
 
 It can only be spent on:
 
