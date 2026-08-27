@@ -1,12 +1,12 @@
 date,direction,amount_usd,party,category,note
-2024-06-30,in,60.00,Synergy,sponsorship,Cover running costs
+2024-06-30,in,8.00,Synergy,sponsorship,Cover running costs
 2024-09-16,out,8.00,GitHub,infrastructure,GitHub Team plan
-2024-09-30,in,180.00,Synergy,sponsorship,Cover running costs
+2024-09-30,in,127.11,Synergy,sponsorship,Cover running costs
 2024-10-01,out,4.00,GitHub,infrastructure,GitHub Team plan
 2024-10-16,out,70.89,GitHub,infrastructure,GitHub Team plan and 58.89 Actions usage
 2024-11-16,out,40.22,GitHub,infrastructure,GitHub Team plan and 28.22 Actions usage
 2024-12-16,out,12.00,GitHub,infrastructure,GitHub Team plan
-2025-01-01,in,720.00,Synergy,sponsorship,Cover running costs
+2025-01-01,in,618.40,Synergy,sponsorship,Cover running costs
 2025-01-16,out,12.00,GitHub,infrastructure,GitHub Team plan
 2025-01-27,out,100.00,sithlord48,payout,Sponsorship to Chris Rizzitello
 2025-01-27,out,6.00,GitHub,fees,GitHub Sponsors fee
@@ -34,7 +34,7 @@ date,direction,amount_usd,party,category,note
 2025-12-31,out,200.00,varshith257,payout,Sponsorship to Vamshi Maskuri
 2025-12-31,out,1000.00,KDE e.V.,upstream,Sponsorship
 2025-12-31,out,500.00,GNOME Foundation,upstream,Sponsorship
-2026-01-01,in,180.00,Synergy,sponsorship,Cover running costs
+2026-01-01,in,36.00,Synergy,sponsorship,Cover running costs
 2026-01-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
 2026-01-16,out,12.00,GitHub,infrastructure,GitHub Team plan
 2026-02-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
@@ -43,7 +43,7 @@ date,direction,amount_usd,party,category,note
 2026-03-03,in,1.00,losuler,sponsorship,Monthly sponsorship
 2026-03-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
 2026-03-16,out,12.00,GitHub,infrastructure,GitHub Team plan
-2026-04-01,in,180.00,Synergy,sponsorship,Cover running costs
+2026-04-01,in,36.00,Synergy,sponsorship,Cover running costs
 2026-04-03,in,1.00,losuler,sponsorship,Monthly sponsorship
 2026-04-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
 2026-04-16,out,12.00,GitHub,infrastructure,GitHub Team plan
@@ -53,7 +53,7 @@ date,direction,amount_usd,party,category,note
 2026-06-03,in,1.00,losuler,sponsorship,Monthly sponsorship
 2026-06-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
 2026-06-16,out,12.00,GitHub,infrastructure,GitHub Team plan
-2026-07-01,in,180.00,Synergy,sponsorship,Cover running costs
+2026-07-01,in,24.00,Synergy,sponsorship,Cover running costs
 2026-07-03,in,1.00,losuler,sponsorship,Monthly sponsorship
 2026-07-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
 2026-07-16,out,12.00,GitHub,infrastructure,GitHub Team plan
