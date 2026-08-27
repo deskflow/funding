@@ -1,31 +1,64 @@
 date,direction,amount_usd,party,category,note
-2025-09-11,in,22.00,ADS-Fund,sponsorship,one-time sponsorship
-2025-10-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2025-11-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2025-12-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2024-06-30,in,60.00,Synergy,sponsorship,Cover running costs
+2024-09-16,out,8.00,GitHub,infrastructure,GitHub Team plan
+2024-09-30,in,180.00,Synergy,sponsorship,Cover running costs
+2024-10-01,out,4.00,GitHub,infrastructure,GitHub Team plan
+2024-10-16,out,70.89,GitHub,infrastructure,GitHub Team plan and 58.89 Actions usage
+2024-11-16,out,40.22,GitHub,infrastructure,GitHub Team plan and 28.22 Actions usage
+2024-12-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-01-01,in,720.00,Synergy,sponsorship,Cover running costs
+2025-01-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-01-27,out,100.00,sithlord48,payout,Sponsorship to Chris Rizzitello
+2025-01-27,out,6.00,GitHub,fees,GitHub Sponsors fee
+2025-02-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-03-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-04-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-05-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-06-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-07-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-08-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-09-11,in,22.00,ADS-Fund,sponsorship,One-time sponsorship
+2025-09-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2025-10-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2025-10-16,out,54.48,GitHub,infrastructure,GitHub Team plan and 42.48 Actions usage
+2025-11-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2025-11-16,out,204.12,GitHub,infrastructure,GitHub Team plan and 192.12 Actions usage
+2025-12-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2025-12-16,out,145.80,GitHub,infrastructure,GitHub Team plan and 133.80 Actions usage
 2025-12-31,in,7450.00,Synergy,sponsorship,Paid directly to recipients by Synergy in 2025
-2025-12-31,out,3000.00,mrnicegyu11,payout,Dustin Kaiser. 2025 total
-2025-12-31,out,1300.00,sithlord48,payout,Chris Rizzitello. 2025 total
-2025-12-31,out,750.00,laz-001,payout,2025 total
-2025-12-31,out,500.00,zelosleone,payout,Denizhan Dakılır. 2025 total
-2025-12-31,out,200.00,BMagnu,payout,2025 total
-2025-12-31,out,200.00,varshith257,payout,Vamshi Maskuri. 2025 total
-2025-12-31,out,1000.00,KDE e.V.,upstream,2025 total
-2025-12-31,out,500.00,GNOME Foundation,upstream,2025 total
-2026-01-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2026-02-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2026-02-18,in,0.50,losuler,sponsorship,monthly sponsorship, first month prorated
-2026-03-03,in,1.00,losuler,sponsorship,monthly sponsorship
-2026-03-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2026-04-03,in,1.00,losuler,sponsorship,monthly sponsorship
-2026-04-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2026-05-08,in,1.00,losuler,sponsorship,monthly sponsorship
-2026-05-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2026-06-03,in,1.00,losuler,sponsorship,monthly sponsorship
-2026-06-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2026-07-03,in,1.00,losuler,sponsorship,monthly sponsorship
-2026-07-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
-2026-07-20,in,1100.00,anonymous,sponsorship,one-time sponsorship
-2026-08-03,in,1.00,losuler,sponsorship,monthly sponsorship
-2026-08-14,in,3.00,ctrueden,sponsorship,monthly sponsorship
+2025-12-31,out,3000.00,mrnicegyu11,payout,Sponsorship to Dustin Kaiser
+2025-12-31,out,1300.00,sithlord48,payout,Sponsorship to Chris Rizzitello
+2025-12-31,out,750.00,laz-001,payout,Sponsorship
+2025-12-31,out,500.00,zelosleone,payout,Sponsorship to Denizhan Dakılır
+2025-12-31,out,200.00,BMagnu,payout,Sponsorship
+2025-12-31,out,200.00,varshith257,payout,Sponsorship to Vamshi Maskuri
+2025-12-31,out,1000.00,KDE e.V.,upstream,Sponsorship
+2025-12-31,out,500.00,GNOME Foundation,upstream,Sponsorship
+2026-01-01,in,180.00,Synergy,sponsorship,Cover running costs
+2026-01-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2026-01-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2026-02-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2026-02-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2026-02-18,in,0.50,losuler,sponsorship,Monthly sponsorship
+2026-03-03,in,1.00,losuler,sponsorship,Monthly sponsorship
+2026-03-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2026-03-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2026-04-01,in,180.00,Synergy,sponsorship,Cover running costs
+2026-04-03,in,1.00,losuler,sponsorship,Monthly sponsorship
+2026-04-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2026-04-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2026-05-08,in,1.00,losuler,sponsorship,Monthly sponsorship
+2026-05-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2026-05-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2026-06-03,in,1.00,losuler,sponsorship,Monthly sponsorship
+2026-06-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2026-06-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2026-07-01,in,180.00,Synergy,sponsorship,Cover running costs
+2026-07-03,in,1.00,losuler,sponsorship,Monthly sponsorship
+2026-07-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
+2026-07-16,out,12.00,GitHub,infrastructure,GitHub Team plan
+2026-07-20,in,1100.00,anonymous,sponsorship,One-time sponsorship
+2026-08-03,in,1.00,losuler,sponsorship,Monthly sponsorship
+2026-08-14,in,3.00,ctrueden,sponsorship,Monthly sponsorship
 2026-08-16,out,106.94,Apple,infrastructure,Apple Developer Program. GBP 79.00 at 1.3537
+2026-08-16,out,12.00,GitHub,infrastructure,GitHub Team plan
